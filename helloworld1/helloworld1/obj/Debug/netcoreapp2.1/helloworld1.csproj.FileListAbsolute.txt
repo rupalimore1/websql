@@ -1,0 +1,13 @@
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\bin\Debug\netcoreapp2.1\helloworld1.deps.json
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\bin\Debug\netcoreapp2.1\helloworld1.runtimeconfig.json
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\bin\Debug\netcoreapp2.1\helloworld1.runtimeconfig.dev.json
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\bin\Debug\netcoreapp2.1\helloworld1.dll
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\bin\Debug\netcoreapp2.1\helloworld1.pdb
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.csproj.CoreCompileInputs.cache
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.RazorAssemblyInfo.cache
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.RazorAssemblyInfo.cs
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.AssemblyInfoInputs.cache
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.AssemblyInfo.cs
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.RazorTargetAssemblyInfo.cache
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.dll
+C:\Users\rupali.more\source\repos\helloworld1\helloworld1\obj\Debug\netcoreapp2.1\helloworld1.pdb
